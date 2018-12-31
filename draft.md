@@ -5,6 +5,7 @@
 * 发展再来的是复杂
 * 严重阻止业务增长的技术,阿里的连接池，dubbo, 三种监控日志，websocket，FastDFS，换一种open office方式, jfinal, 使用load方式加载页面，  
 * 从框架上限制使用一些技术： 没有使用默认URI方法，安全性，SQL注入，权限限制，参数限制等等
+* maven分包
 * 
 
 
