@@ -6,7 +6,7 @@
 * 建议以英文为主的开源软件，至少可以通过Stack Overflow找到答案
 * 计划：继续完成
 * 发展再来的是复杂
-* 去掉严重阻止业务增长的技术,阿里的连接池，dubbo, 三种监控日志，websocket，FastDFS，换一种open office方式, jfinal, 使用load方式加载页面，  
+* 去掉严重阻止业务增长的技术,阿里的连接池，dubbo, 三种监控日志，websocket，FastDFS，换一种open office方式, jfinal, 使用load方式加载页面，（杀鸡用牛刀）  
 * 从框架上限制使用一些技术： 没有使用默认URI方法，安全性，SQL注入，权限限制，参数限制等等,
 * 数据库，目录主要以文档方式，主键是UUID，关系数据以数字，可以计算为主，结合nosql方式
 * maven分包，登录安全性(防暴力)，
