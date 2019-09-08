@@ -33,7 +33,7 @@
 <tr><td>marketing program</td><td>营销方案</td></tr>
 <tr><td>price</td><td>价格</td></tr>
 </table>
-<m>
+</m>
 # Java命名
 <mm>
 
