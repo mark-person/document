@@ -1,5 +1,8 @@
 # 数据库命名
-<m><table>
+> 详情请看
+
+
+<table>
 <tr><th>code</th><th>description</th></tr>
 
 <!-- 常用 -->
@@ -29,10 +32,11 @@
 <tr><td>campaign</td><td>营销活动</td></tr>
 <tr><td>marketing program</td><td>营销方案</td></tr>
 <tr><td>price</td><td>价格</td></tr>
-</table></m>
+</table>
+<m>
 # Java命名
 <mm>
-  
+
 ```
 去魔法数字
 20XXX自己处理
@@ -43,5 +47,5 @@
 auto/demo/demo 到达功能首页
 
 ```
-</mm>
+<mm>
 
